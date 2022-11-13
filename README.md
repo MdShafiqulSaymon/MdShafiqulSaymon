@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MdShafiqulSaymon
 - 👀 I’m interested in Programming & Project Based Work
-- 🌱 I’m currently learning Competitive Programming
+- 🌱 I’m currently learning Competitive Programming & HTLM,CSS,JAVA,Python....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :WhatsApp;+8801888326497
 
