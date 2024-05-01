@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shafiqul_saymon" target="blank"><img src="https://img.shields.io/twitter/follow/shafiqul_saymon?logo=twitter&style=for-the-badge" alt="shafiqul_saymon" /></a> </p>
 
-- 🌱 I’m currently learning **Docker,Kubernetes**
+- 🌱 I’m currently learning **Docker,Kubernetes,and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://saymon-resume.vercel.app/](https://saymon-resume.vercel.app/)
 
