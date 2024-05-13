@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshafiqulsaymon&show_icons=true&locale=en" alt="mdshafiqulsaymon" /></p>
 
 ![](https://leetcard.jacoblin.cool/saymon_1904083?theme=unicorn)
-![](https://leetcard.jacoblin.cool/saymon_1904083?theme=light,unicorn)
